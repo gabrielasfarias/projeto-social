@@ -28,3 +28,11 @@ main{
     transform: translate(-50%,-50%);
     background:url(../imagens/frame-iphone.png) no-repeat;
 }
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 20px;
+    right: 10px;
+    height: 480px;
+    width: 270px;
+}

@@ -36,3 +36,12 @@ iframe#tela{
     height: 480px;
     width: 270px;
 }
+section#redessociais > a > img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.395);
+}
+#redessociais{
+    text-align: right;
+}
